@@ -21,7 +21,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • there are **only 2** managers in the retiring_titles table
 
-<center>
+<div align="center">
 | Count | Title              |
 |-------|--------------------|
 | 29414 | Senior Engineer    |
@@ -31,7 +31,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 | 4502  | Technique Leader   |
 | 1761  | Assistant Engineer |
 | 2     | Manager            |
-</center>
+</div>
 
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
