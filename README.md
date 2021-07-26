@@ -153,6 +153,44 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
+• roughly a third of mentorship eligible employees have been in their current position for >30 years (from_date before 1991); a breakdown by title is below
+
+<p align="center">Mentorship Eligibility by Title (>30 years with current title)</p> 
+<table class="tg" align="center">
+<thead>
+  <tr>
+    <th class="tg-0pky">Title</th>
+    <th class="tg-0pky">Count</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Senior Staff</td>
+    <td class="tg-0pky">256</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Engineer</td>
+    <td class="tg-0pky">187</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Senior Engineer</td>
+    <td class="tg-0pky">61</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Assistant Engineer</td>
+    <td class="tg-0pky">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Technique Leader</td>
+    <td class="tg-0pky">24</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Grand Total</td>
+    <td class="tg-0pky">553</td>
+  </tr>
+</tbody>
+</table>
+
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
