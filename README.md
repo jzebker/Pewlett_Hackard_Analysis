@@ -111,7 +111,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • there is roughly **1** Senior Engineer for every **3** Engineers who are mentorship eligible
 
-<table class="tg">
+<table class="tg" align="center">
 <thead>
   <tr>
     <th class="tg-0pky">Title</th>
