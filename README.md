@@ -192,6 +192,6 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </table>
 
 ## Summary
-####How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-####Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
