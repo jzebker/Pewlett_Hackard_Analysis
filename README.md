@@ -24,42 +24,42 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 <table class="tg" align="center">
 <thead>
   <tr>
-    <th class="tg-0pky">Count</th>
     <th class="tg-0pky">Title</th>
+    <th class="tg-0pky">Count</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">29414</td>
     <td class="tg-0pky">Senior Engineer</td>
+    <td class="tg-0pky">29414</td>
   </tr>
   <tr>
-    <td class="tg-0pky">28254</td>
     <td class="tg-0pky">Senior Staff</td>
+    <td class="tg-0pky">28254</td>
   </tr>
   <tr>
-    <td class="tg-0pky">14222</td>
     <td class="tg-0pky">Engineer</td>
+    <td class="tg-0pky">14222</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12243</td>
     <td class="tg-0pky">Staff</td>
+    <td class="tg-0pky">12243</td>
   </tr>
   <tr>
-    <td class="tg-0pky">4502</td>
     <td class="tg-0pky">Technique Leader</td>
+    <td class="tg-0pky">4502</td>
   </tr>
   <tr>
-    <td class="tg-0pky">1761</td>
     <td class="tg-0pky">Assistant Engineer</td>
+    <td class="tg-0pky">1761</td>
   </tr>
   <tr>
-    <td class="tg-0pky">2</td>
     <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">90398</td>
     <td class="tg-0pky">Grand Total</td>
+    <td class="tg-0pky">90398</td>
   </tr>
 </tbody>
 </table>
@@ -75,7 +75,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Senior   Engineer</td>
+    <td class="tg-0pky">Senior Engineer</td>
     <td class="tg-0pky">25916</td>
   </tr>
   <tr>
