@@ -18,6 +18,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 ## Results
 <sup>*Note*- retiring employees are identified by birth year (1952-1955)</sup>
+
 <sup>*Note*- mentorship eligibility is determined by birth year (1965)</sup>
 
 • there are ***only 2*** managers in the retiring_titles table
