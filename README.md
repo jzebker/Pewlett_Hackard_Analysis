@@ -54,7 +54,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
     <td class="tg-0pky">1761</td>
   </tr>
   <tr>
-    <td class="tg-0pky" background="red">Manager</td>
+    <td class="tg-0pky" bgcolor="red">Manager</td>
     <td class="tg-0pky">2</td>
   </tr>
   <tr>
