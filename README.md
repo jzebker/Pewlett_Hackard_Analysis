@@ -67,6 +67,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • the instructions for Deliverable 1 do not specify a filter on current employees (to_date="01-01-9999") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged)
 
+<p align="center">Retiring Titles (Current Employees)</p>
 <table class="tg" align="center">
 <thead>
   <tr>
@@ -112,6 +113,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • there is roughly **1** Senior Engineer for every **3** Engineers who are mentorship eligible and there is roughly **1** Senior Staff for every **3** Staff who are mentorship eligible
 
+<p align="center">Mentorship Eligibility by Title</p>
 <table class="tg" align="center">
 <thead>
   <tr>
