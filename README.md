@@ -197,3 +197,4 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Per the data, there are 72,458 current employees who are at retirement age.  If they all retire and need to be replaced, 72,458 roles will need to be filled.
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Per the data, there are 1549 potential mentorship-eligibile employees and 72,458 potential roles to fill.  Using these numbers as estimates, each mentorship-eligibile employee will have to mentor just under 50 new employees to fill roles.
