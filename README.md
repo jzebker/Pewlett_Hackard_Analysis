@@ -22,6 +22,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 • there are **only 2** managers in the retiring_titles table
 
 <div align="center">
+  <table>
 | Count | Title              |
 |-------|--------------------|
 | 29414 | Senior Engineer    |
@@ -31,6 +32,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 | 4502  | Technique Leader   |
 | 1761  | Assistant Engineer |
 | 2     | Manager            |
+  </table>
 </div>
 
 ## Summary
