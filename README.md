@@ -22,7 +22,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 • there are ***only 2*** managers in the retiring_titles table
 
 <table class="tg" align="center">
-  <caption align="center">Retiring Titles</caption>
+  <caption style="text-align:center">Retiring Titles</caption>
 <thead>
   <tr>
     <th class="tg-0pky">Title</th>
