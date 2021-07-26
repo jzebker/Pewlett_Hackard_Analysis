@@ -21,7 +21,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • there are **only 2** managers in the retiring_titles table
 
-<table class="tg">
+<table class="tg" align="center">
 <thead>
   <tr>
     <th class="tg-0pky">Count</th>
