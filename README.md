@@ -54,8 +54,8 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
     <td class="tg-0pky">1761</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Manager/td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">***Manager***/td>
+    <td class="tg-0pky">***2***</td>
   </tr>
   <tr>
     <td class="tg-0pky">Grand Total</td>
@@ -64,7 +64,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• the <span style="color:blue">instructions</span> for Deliverable 1 do not specify a filter on current employees (to_date="01-01-9999") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged)
+• the instructions for Deliverable 1 do not specify a filter on current employees (to_date="01-01-9999") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged)
 
 <table class="tg" align="center">
 <thead>
