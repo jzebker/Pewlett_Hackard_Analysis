@@ -17,7 +17,18 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 [Mentorship Eligibility](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 ## Results
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+*Note*- employees are identified by birth date (yr 1952-1955)
+• there are **only 2** managers in the retirement table
+
+| Count | Title              |
+|-------|--------------------|
+| 29414 | Senior Engineer    |
+| 28254 | Senior Staff       |
+| 14222 | Engineer           |
+| 12243 | Staff              |
+| 4502  | Technique Leader   |
+| 1761  | Assistant Engineer |
+| 2     | Manager            |
 
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
