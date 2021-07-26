@@ -1,7 +1,7 @@
 # Pewlett_Hackard_Analysis
 ## Overview
 
-Help Bobby out with his employee database assignments in SQL.  Determine (1) the number of retiring employees per title and (2) identify employees eligible for the mentorship program.  In addition, (3) provide a written analysis of the process and try to be light-hearted about it.
+Help Bobby out with his employee database assignments in SQL.  Determine (1) the number of retiring employees per title and (2) identify employees eligible for the mentorship program.  In addition, (3) provide a written analysis of the process.
 
 ## Tables (csv)
 ### Deliverable 1
