@@ -53,7 +53,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
     <td class="tg-0pky">Assistant Engineer</td>
     <td class="tg-0pky">1761</td>
   </tr>
-  <style="background-color:red"><tr>
+  <tr style="background-color:#FF0000">
     <td class="tg-0pky">Manager</td>
     <td class="tg-0pky">2</td>
   </style>
