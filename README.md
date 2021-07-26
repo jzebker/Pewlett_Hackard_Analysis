@@ -53,9 +53,10 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
     <td class="tg-0pky">Assistant Engineer</td>
     <td class="tg-0pky">1761</td>
   </tr>
-  <tr>
-    <td class="tg-0pky" style="background-color:tomato;">Manager</td>
+  <style="background-color:red"><tr>
+    <td class="tg-0pky">Manager</td>
     <td class="tg-0pky">2</td>
+  </style>
   </tr>
   <tr>
     <td class="tg-0pky">Grand Total</td>
