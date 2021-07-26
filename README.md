@@ -21,19 +21,20 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • there are **only 2** managers in the retiring_titles table
 
-<div align="center">
-  <table>
-| Count | Title              |
-|-------|--------------------|
-| 29414 | Senior Engineer    |
-| 28254 | Senior Staff       |
-| 14222 | Engineer           |
-| 12243 | Staff              |
-| 4502  | Technique Leader   |
-| 1761  | Assistant Engineer |
-| 2     | Manager            |
-  </table>
-</div>
+<table class="tg" align="center">
+<thead>
+  <tr>
+    <th class="tg-0pky">Count</th>
+    <th class="tg-0pky">Title</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>29414</td>
+    <td>Senior Engineer</td>
+  </tr>
+</tbody>
+</table>
 
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
