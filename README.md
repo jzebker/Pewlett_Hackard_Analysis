@@ -109,6 +109,47 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
+• there is roughly **1** Senior Engineer for every **3** Engineers who are mentorship eligible
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Title</th>
+    <th class="tg-0pky">Count</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Senior Staff</td>
+    <td class="tg-0pky">568</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Engineer</td>
+    <td class="tg-0pky">501</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Senior Engineer</td>
+    <td class="tg-0pky">169</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Staff</td>
+    <td class="tg-0pky">156</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Assistant Engineer</td>
+    <td class="tg-0pky">78</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Technique Leader</td>
+    <td class="tg-0pky">77</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Grand Total</td>
+    <td class="tg-0pky">1549</td>
+  </tr>
+</tbody>
+</table>
+
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
