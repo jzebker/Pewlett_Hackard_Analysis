@@ -57,6 +57,10 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
     <td class="tg-0pky">2</td>
     <td class="tg-0pky">Manager</td>
   </tr>
+  <tr>
+    <td class="tg-0pky">90398</td>
+    <td class="tg-0pky">Grand Total</td>
+  </tr>
 </tbody>
 </table>
 
