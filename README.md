@@ -17,7 +17,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 [Mentorship Eligibility](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 ## Results
-*Note*- employees are identified by birth date (yr 1952-1955)
+<sup>*Note*- employees are identified by birth date (yr 1952-1955)</sup>
 
 • there are **only 2** managers in the retirement table
 
