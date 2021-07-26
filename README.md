@@ -19,7 +19,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 ## Results
 <sup>*Note*- employees are identified by birth date (yr 1952-1955)</sup>
 
-• there are **only 2** managers in the retiring_titles table
+• there are ***only 2*** managers in the retiring_titles table
 
 <table class="tg" align="center">
 <thead>
@@ -56,6 +56,51 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
   <tr>
     <td class="tg-0pky">2</td>
     <td class="tg-0pky">Manager</td>
+  </tr>
+</tbody>
+</table>
+
+• 
+
+<table class="tg" align="center">
+<thead>
+  <tr>
+    <th class="tg-0pky">Count</th>
+    <th class="tg-0pky">Title</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Senior   Engineer</td>
+    <td class="tg-0pky">25916</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Senior Staff</td>
+    <td class="tg-0pky">24926</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Engineer</td>
+    <td class="tg-0pky">9285</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Staff</td>
+    <td class="tg-0pky">7636</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Technique Leader</td>
+    <td class="tg-0pky">3603</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Assistant Engineer</td>
+    <td class="tg-0pky">1090</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Grand Total</td>
+    <td class="tg-0pky">72458</td>
   </tr>
 </tbody>
 </table>
