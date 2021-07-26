@@ -18,6 +18,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 ## Results
 *Note*- employees are identified by birth date (yr 1952-1955)
+
 • there are **only 2** managers in the retirement table
 
 | Count | Title              |
