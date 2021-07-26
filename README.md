@@ -21,7 +21,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • there are **only 2** managers in the retiring_titles table
 
-<table class="tg" align="center">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-0pky">Count</th>
@@ -30,8 +30,32 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </thead>
 <tbody>
   <tr>
-    <td>29414</td>
-    <td>Senior Engineer</td>
+    <td class="tg-0pky">29414</td>
+    <td class="tg-0pky">Senior Engineer</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">28254</td>
+    <td class="tg-0pky">Senior Staff</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14222</td>
+    <td class="tg-0pky">Engineer</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12243</td>
+    <td class="tg-0pky">Staff</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4502</td>
+    <td class="tg-0pky">Technique Leader</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1761</td>
+    <td class="tg-0pky">Assistant Engineer</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">Manager</td>
   </tr>
 </tbody>
 </table>
