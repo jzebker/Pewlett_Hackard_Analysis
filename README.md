@@ -56,7 +56,6 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
   <tr style="background-color:#FF0000">
     <td class="tg-0pky">Manager</td>
     <td class="tg-0pky">2</td>
-  </style>
   </tr>
   <tr>
     <td class="tg-0pky">Grand Total</td>
