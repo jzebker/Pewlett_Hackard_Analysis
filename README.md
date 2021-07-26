@@ -21,8 +21,8 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • there are ***only 2*** managers in the retiring_titles table
 
+<p align="center">Retiring Titles</p>
 <table class="tg" align="center">
-  <caption style="text-align:center">Retiring Titles</caption>
 <thead>
   <tr>
     <th class="tg-0pky">Title</th>
