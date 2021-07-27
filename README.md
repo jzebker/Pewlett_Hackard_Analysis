@@ -202,7 +202,7 @@ Per the data, there are 1549 potential mentorship-eligibile employees and 72,458
 (1) There are only 2 managers identified at retirement age.  This sticks out because there are many more retirees of each other job title.  A quick search of the "titles" table shows that there are only 9 current employees with the title "Manager" so this number is not unexpected.
 
 <p align="center">Current Managers</p> 
-<table class="tg" lign="center">
+<table class="tg" align="center">
 <thead>
   <tr>
     <th class="tg-0pky">emp_no</th>
