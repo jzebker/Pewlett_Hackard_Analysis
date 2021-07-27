@@ -1,3 +1,4 @@
+-- Current managers
 SELECT emp_no,
 	title,
 	from_date,
