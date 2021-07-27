@@ -276,46 +276,46 @@ Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"> <br>dept_name </th>
-    <th class="tg-0pky"> <br>count </th>
+    <th class="tg-0pky">Department</th>
+    <th class="tg-0pky">Count</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"> <br>Development </td>
-    <td class="tg-0pky"> <br>9281 </td>
+    <td class="tg-0pky">Development</td>
+    <td class="tg-0pky">18368</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <br>Production </td>
-    <td class="tg-0pky"> <br>8174 </td>
+    <td class="tg-0pky">Production</td>
+    <td class="tg-0pky">16172</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <br>Sales </td>
-    <td class="tg-0pky"> <br>5860 </td>
+    <td class="tg-0pky">Sales</td>
+    <td class="tg-0pky">11336</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <br>Customer Service </td>
-    <td class="tg-0pky"> <br>2597 </td>
+    <td class="tg-0pky">Customer Service</td>
+    <td class="tg-0pky">5320</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <br>Research </td>
-    <td class="tg-0pky"> <br>2413 </td>
+    <td class="tg-0pky">Research</td>
+    <td class="tg-0pky">4738</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <br>Quality Management </td>
-    <td class="tg-0pky"> <br>2234 </td>
+    <td class="tg-0pky">Quality Management</td>
+    <td class="tg-0pky">4448</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <br>Marketing </td>
-    <td class="tg-0pky"> <br>2199 </td>
+    <td class="tg-0pky">Marketing</td>
+    <td class="tg-0pky">4392</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <br>Human Resources </td>
-    <td class="tg-0pky"> <br>1953 </td>
+    <td class="tg-0pky">Human Resources</td>
+    <td class="tg-0pky">3925</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <br>Finance </td>
-    <td class="tg-0pky"> <br>1908 </td>
+    <td class="tg-0pky">Finance</td>
+    <td class="tg-0pky">3759</td>
   </tr>
 </tbody>
 </table>
