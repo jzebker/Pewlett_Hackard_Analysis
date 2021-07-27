@@ -318,3 +318,50 @@ Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential
   </tr>
 </tbody>
 </table>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Department</th>
+    <th class="tg-0pky">Count</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Development</td>
+    <td class="tg-0pky">435</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Production</td>
+    <td class="tg-0pky">356</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Sales</td>
+    <td class="tg-0pky">272</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Customer Service</td>
+    <td class="tg-0pky">128</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Marketing</td>
+    <td class="tg-0pky">126</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Research</td>
+    <td class="tg-0pky">113</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Human Resources</td>
+    <td class="tg-0pky">107</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Quality Management</td>
+    <td class="tg-0pky">97</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Finance</td>
+    <td class="tg-0pky">74</td>
+  </tr>
+</tbody>
+</table>
