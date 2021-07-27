@@ -199,4 +199,72 @@ Per the data, there are 72,458 current employees who are at retirement age.  If 
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Per the data, there are 1549 potential mentorship-eligibile employees and 72,458 potential roles to fill.  Using these numbers as estimates, each mentorship-eligibile employee will have to mentor just under 50 new employees to fill roles.
 #### Provide (2) additional tables or queries that may provide more insight:
+(1) There are only 2 managers identified at retirement age.  This sticks out because there are many more retirees of each other job title.  A quick search of the "titles" table shows that there are only 9 current employees with the title "Manager" so this number is not unexpected.
 
+<p align="center">Current Managers</p> 
+<table class="tg" lign="center">
+<thead>
+  <tr>
+    <th class="tg-0pky">emp_no</th>
+    <th class="tg-0pky">title</th>
+    <th class="tg-0pky">from_date</th>
+    <th class="tg-0pky">to_date</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">110039</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">10/1/91</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">110114</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">12/17/89</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">110228</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">3/21/92</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">110420</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">8/30/96</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">110567</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">4/25/92</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">110854</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">6/28/94</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">111133</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">3/7/91</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">111534</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">4/8/91</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">111939</td>
+    <td class="tg-0pky">Manager</td>
+    <td class="tg-0pky">1/3/96</td>
+    <td class="tg-0pky">1/1/99</td>
+  </tr>
+</tbody>
+</table>
