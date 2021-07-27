@@ -270,3 +270,51 @@ Per the data, there are 1549 potential mentorship-eligibile employees and 72,458
 </table>
 
 (2) We can also look at [retiring employees by department](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_by_dept.sql) instead of title.
+
+<p align="center">Retirees By Department</p> 
+<table class="tg" align="center">
+<thead>
+  <tr>
+    <th class="tg-0pky"> <br>dept_name </th>
+    <th class="tg-0pky"> <br>count </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"> <br>Development </td>
+    <td class="tg-0pky"> <br>9281 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Production </td>
+    <td class="tg-0pky"> <br>8174 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Sales </td>
+    <td class="tg-0pky"> <br>5860 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Customer Service </td>
+    <td class="tg-0pky"> <br>2597 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Research </td>
+    <td class="tg-0pky"> <br>2413 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Quality Management </td>
+    <td class="tg-0pky"> <br>2234 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Marketing </td>
+    <td class="tg-0pky"> <br>2199 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Human Resources </td>
+    <td class="tg-0pky"> <br>1953 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Finance </td>
+    <td class="tg-0pky"> <br>1908 </td>
+  </tr>
+</tbody>
+</table>
