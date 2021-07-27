@@ -197,7 +197,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Per the data, there are 72,458 current employees who are at retirement age.  If they all retire and need to be replaced, 72,458 roles will need to be filled.
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential roles to fill.  Using these numbers as estimates, each mentorship-eligibile employee will have to mentor just under 50 new employees to fill roles.
+Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential roles to fill.  Using these numbers as estimates, each mentorship-eligibile employee will have to mentor just under 50 new employees to fill roles.  It is worth noting that mentorship eligibility was determined by birth date and not start date.
 #### Provide (2) additional tables or queries that may provide more insight:
 (1) There are only 2 managers identified at retirement age.  This sticks out because there are many more retirees of each other job title.  A [quick search](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/managers.sql) of the "titles" table shows that there are only 9 current employees with the title "Manager" so this number is not unexpected.
 
