@@ -197,7 +197,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Per the data, there are 72,458 current employees who are at retirement age.  If they all retire and need to be replaced, 72,458 roles will need to be filled.
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Per the data, there are 1549 potential mentorship-eligibile employees and 72,458 potential roles to fill.  Using these numbers as estimates, each mentorship-eligibile employee will have to mentor just under 50 new employees to fill roles.
+Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential roles to fill.  Using these numbers as estimates, each mentorship-eligibile employee will have to mentor just under 50 new employees to fill roles.
 #### Provide (2) additional tables or queries that may provide more insight:
 (1) There are only 2 managers identified at retirement age.  This sticks out because there are many more retirees of each other job title.  A [quick search](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/managers.sql) of the "titles" table shows that there are only 9 current employees with the title "Manager" so this number is not unexpected.
 
@@ -269,4 +269,52 @@ Per the data, there are 1549 potential mentorship-eligibile employees and 72,458
 </tbody>
 </table>
 
-(2) We can also look at retiring employees by department insted of title.
+(2) We can also look at [retiring employees by department](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_by_dept.sql) instead of title.
+
+<p align="center">Retirees By Department</p> 
+<table class="tg" align="center">
+<thead>
+  <tr>
+    <th class="tg-0pky"> <br>dept_name </th>
+    <th class="tg-0pky"> <br>count </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"> <br>Development </td>
+    <td class="tg-0pky"> <br>9281 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Production </td>
+    <td class="tg-0pky"> <br>8174 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Sales </td>
+    <td class="tg-0pky"> <br>5860 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Customer Service </td>
+    <td class="tg-0pky"> <br>2597 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Research </td>
+    <td class="tg-0pky"> <br>2413 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Quality Management </td>
+    <td class="tg-0pky"> <br>2234 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Marketing </td>
+    <td class="tg-0pky"> <br>2199 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Human Resources </td>
+    <td class="tg-0pky"> <br>1953 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <br>Finance </td>
+    <td class="tg-0pky"> <br>1908 </td>
+  </tr>
+</tbody>
+</table>
