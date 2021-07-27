@@ -269,4 +269,4 @@ Per the data, there are 1549 potential mentorship-eligibile employees and 72,458
 </tbody>
 </table>
 
-(2) We can also look at retiring employees by department insted of title.
+(2) We can also look at [retiring employees by department](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_by_dept.sql) instead of title.
