@@ -268,3 +268,5 @@ Per the data, there are 1549 potential mentorship-eligibile employees and 72,458
   </tr>
 </tbody>
 </table>
+
+(2) Look at cross-sections of the employees from different birth years to see if proportions have shifted.
