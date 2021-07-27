@@ -21,6 +21,8 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 <sup>*Note*- mentorship eligibility is determined by birth year (1965)</sup>
 
+<sup>*Note*- current employees have a to_date of "9999-01-01"</sup>
+
 • there are ***only 2*** managers in the retiring_titles table
 
 <p align="center">Retiring Titles</p>
