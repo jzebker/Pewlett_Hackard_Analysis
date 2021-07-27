@@ -1,9 +1,11 @@
+-- Get number of eligibile mentors by department
 SELECT d.dept_name,
 	count(d.dept_name)
-FROM mentorship_eligibility as me
-INNER JOIN dept_emp as de
-ON de.emp_no = me.emp_no
+FROM dept_emp as de
 INNER JOIN departments as d
-ON d.dept_no = de.dept_no
-GROUP BY dept_name
+ON de.dept_no = d.dept_no
+INNER JOIN employees as e
+ON e.emp_no = de.emp_no
+WHERE de.to_date = '9999-01-01' AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
+GROUP BY d.dept_name
 ORDER BY count(d.dept_name) DESC;
