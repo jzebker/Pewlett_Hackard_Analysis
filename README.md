@@ -143,11 +143,11 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
     <td class="tg-0pky">155</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Assistant Engineer</td>
+    <td class="tg-0pky">Technique Leader</td>
     <td class="tg-0pky">77</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Technique Leader</td>
+    <td class="tg-0pky">Assistant Engineer</td>
     <td class="tg-0pky">29</td>
   </tr>
   <tr>
