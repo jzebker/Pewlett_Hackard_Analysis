@@ -369,3 +369,52 @@ Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential
 </tbody>
 </table>
 </td></tr> </table>
+
+AND the ratio of Mentors to Retirees (aka Potential Mentors to Potential Roles to Fill)
+
+<table class="tg" align="center">
+<thead>
+  <tr>
+    <th class="tg-0pky">Department</th>
+    <th class="tg-0pky">Retirees Per Mentor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">"Development"</td>
+    <td class="tg-0pky">46</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">"Production"</td>
+    <td class="tg-0pky">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">"Sales"</td>
+    <td class="tg-0pky">46</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">"Customer Service"</td>
+    <td class="tg-0pky">44</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">"Marketing"</td>
+    <td class="tg-0pky">37</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">"Research"</td>
+    <td class="tg-0pky">46</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">"Human Resources"</td>
+    <td class="tg-0pky">40</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">"Quality Management"</td>
+    <td class="tg-0pky">51</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">"Finance"</td>
+    <td class="tg-0pky">58</td>
+  </tr>
+</tbody>
+</table>
