@@ -21,6 +21,8 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 <sup>*Note*- mentorship eligibility is determined by birth year (1965)</sup>
 
+<sup>*Note*- current employees have a to_date of "9999-01-01"</sup>
+
 • there are ***only 2*** managers in the retiring_titles table
 
 <p align="center">Retiring Titles</p>
@@ -67,7 +69,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• the instructions for Deliverable 1 do not specify a filter on current employees (to_date="01-01-9999") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged)
+• the instructions for Deliverable 1 do not specify a filter on current employees (to_date="9999-01-01") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged)
 
 <p align="center">Retiring Titles (Current Employees)</p>
 <table class="tg" align="center">
@@ -197,7 +199,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Per the data, there are 72,458 current employees who are at retirement age.  If they all retire and need to be replaced, 72,458 roles will need to be filled.
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential roles to fill.  Using these numbers as estimates, each mentorship-eligibile employee will have to mentor just under 50 new employees to fill roles.
+Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential roles to fill.  Using these numbers as estimates, each mentorship-eligibile employee will have to mentor just under 50 new employees to fill roles.  It is worth noting that mentorship eligibility was determined by birth date and not start date.
 #### Provide (2) additional tables or queries that may provide more insight:
 (1) There are only 2 managers identified at retirement age.  This sticks out because there are many more retirees of each other job title.  A [quick search](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/managers.sql) of the "titles" table shows that there are only 9 current employees with the title "Manager" so this number is not unexpected.
 
@@ -330,40 +332,89 @@ Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential
 <tbody>
   <tr>
     <td class="tg-0pky">Development</td>
-    <td class="tg-0pky">435</td>
+    <td class="tg-0pky">396</td>
   </tr>
   <tr>
     <td class="tg-0pky">Production</td>
-    <td class="tg-0pky">356</td>
+    <td class="tg-0pky">322</td>
   </tr>
   <tr>
     <td class="tg-0pky">Sales</td>
-    <td class="tg-0pky">272</td>
+    <td class="tg-0pky">244</td>
   </tr>
   <tr>
     <td class="tg-0pky">Customer Service</td>
-    <td class="tg-0pky">128</td>
+    <td class="tg-0pky">120</td>
   </tr>
   <tr>
     <td class="tg-0pky">Marketing</td>
-    <td class="tg-0pky">126</td>
+    <td class="tg-0pky">117</td>
   </tr>
   <tr>
     <td class="tg-0pky">Research</td>
-    <td class="tg-0pky">113</td>
+    <td class="tg-0pky">103</td>
   </tr>
   <tr>
     <td class="tg-0pky">Human Resources</td>
-    <td class="tg-0pky">107</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Quality Management</td>
     <td class="tg-0pky">97</td>
   </tr>
   <tr>
+    <td class="tg-0pky">Quality Management</td>
+    <td class="tg-0pky">86</td>
+  </tr>
+  <tr>
     <td class="tg-0pky">Finance</td>
-    <td class="tg-0pky">74</td>
+    <td class="tg-0pky">64</td>
   </tr>
 </tbody>
 </table>
 </td></tr> </table>
+
+And the ratio of Mentors to Retirees (aka Potential Mentors to Potential Roles to Fill)
+
+<table class="tg" align="center">
+<thead>
+  <tr>
+    <th class="tg-0pky">Department</th>
+    <th class="tg-0pky">Retirees Per Mentor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Development</td>
+    <td class="tg-0pky">46</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Production</td>
+    <td class="tg-0pky">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Sales</td>
+    <td class="tg-0pky">46</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Customer Service</td>
+    <td class="tg-0pky">44</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Marketing</td>
+    <td class="tg-0pky">37</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Research</td>
+    <td class="tg-0pky">46</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Human Resources</td>
+    <td class="tg-0pky">40</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Quality Management</td>
+    <td class="tg-0pky">51</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Finance</td>
+    <td class="tg-0pky">58</td>
+  </tr>
+</tbody>
+</table>
