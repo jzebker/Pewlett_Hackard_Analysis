@@ -157,9 +157,9 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• roughly a third of mentorship eligible employees have been in their current position for more than 30 years (from_date before 1991); a breakdown by title is below
+• roughly a third of mentorship eligible employees have been in their current position for more than 25 years (from_date<'1996-01-01'); a breakdown by title is below
 
-<p align="center">Mentorship Eligibility by Title (>30 years with current title)</p> 
+<p align="center">Mentorship Eligibility by Title (>25 years with current title)</p> 
 <table class="tg" align="center">
 <thead>
   <tr>
@@ -194,7 +194,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
   </tr>
   <tr>
     <td class="tg-0pky">Grand Total</td>
-    <td class="tg-0pky">553</td>
+    <td class="tg-0pky">627</td>
   </tr>
 </tbody>
 </table>
