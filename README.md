@@ -144,7 +144,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
   </tr>
   <tr>
     <td class="tg-0pky">Assistant Engineer</td>
-    <td class="tg-0pky">78</td>
+    <td class="tg-0pky">77</td>
   </tr>
   <tr>
     <td class="tg-0pky">Technique Leader</td>
@@ -181,11 +181,11 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
     <td class="tg-0pky">61</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Assistant Engineer</td>
+    <td class="tg-0pky">Technique Leader</td>
     <td class="tg-0pky">25</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Technique Leader</td>
+    <td class="tg-0pky">Assistant Engineer</td>
     <td class="tg-0pky">24</td>
   </tr>
   <tr>
