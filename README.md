@@ -370,7 +370,7 @@ Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential
 </table>
 </td></tr> </table>
 
-AND the ratio of Mentors to Retirees (aka Potential Mentors to Potential Roles to Fill)
+And the ratio of Mentors to Retirees (aka Potential Mentors to Potential Roles to Fill)
 
 <table class="tg" align="center">
 <thead>
