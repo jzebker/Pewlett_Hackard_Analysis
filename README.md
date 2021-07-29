@@ -381,39 +381,39 @@ AND the ratio of Mentors to Retirees (aka Potential Mentors to Potential Roles t
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">"Development"</td>
+    <td class="tg-0pky">Development</td>
     <td class="tg-0pky">46</td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Production"</td>
+    <td class="tg-0pky">Production</td>
     <td class="tg-0pky">50</td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Sales"</td>
+    <td class="tg-0pky">Sales</td>
     <td class="tg-0pky">46</td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Customer Service"</td>
+    <td class="tg-0pky">Customer Service</td>
     <td class="tg-0pky">44</td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Marketing"</td>
+    <td class="tg-0pky">Marketing</td>
     <td class="tg-0pky">37</td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Research"</td>
+    <td class="tg-0pky">Research</td>
     <td class="tg-0pky">46</td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Human Resources"</td>
+    <td class="tg-0pky">Human Resources</td>
     <td class="tg-0pky">40</td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Quality Management"</td>
+    <td class="tg-0pky">Quality Management</td>
     <td class="tg-0pky">51</td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Finance"</td>
+    <td class="tg-0pky">Finance</td>
     <td class="tg-0pky">58</td>
   </tr>
 </tbody>
