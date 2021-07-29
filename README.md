@@ -115,7 +115,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• there is roughly **1** Senior Engineer for every **3** Engineers who are mentorship eligible and there is roughly **1** Senior Staff for every **3** Staff who are mentorship eligible
+• there is roughly **1** Engineer for every **3** Senior Engineers who are mentorship eligible and there is roughly **1** Staff for every **3.5** Senior Staff who are mentorship eligible
 
 <p align="center">Mentorship Eligibility by Title</p>
 <table class="tg" align="center">
