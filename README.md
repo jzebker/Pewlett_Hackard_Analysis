@@ -115,7 +115,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• there is roughly **1** Senior Engineer for every **3** Engineers who are mentorship eligible and there is roughly **1** Senior Staff for every **3** Staff who are mentorship eligible
+• there is roughly **1** Engineer for every **3** Senior Engineers who are mentorship eligible and there is roughly **1** Staff for every **3.5** Senior Staff who are mentorship eligible
 
 <p align="center">Mentorship Eligibility by Title</p>
 <table class="tg" align="center">
@@ -128,27 +128,27 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 <tbody>
   <tr>
     <td class="tg-0pky">Senior Staff</td>
-    <td class="tg-0pky">568</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Engineer</td>
-    <td class="tg-0pky">501</td>
+    <td class="tg-0pky">569</td>
   </tr>
   <tr>
     <td class="tg-0pky">Senior Engineer</td>
-    <td class="tg-0pky">169</td>
+    <td class="tg-0pky">529</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Engineer</td>
+    <td class="tg-0pky">190</td>
   </tr>
   <tr>
     <td class="tg-0pky">Staff</td>
-    <td class="tg-0pky">156</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Assistant Engineer</td>
-    <td class="tg-0pky">78</td>
+    <td class="tg-0pky">155</td>
   </tr>
   <tr>
     <td class="tg-0pky">Technique Leader</td>
     <td class="tg-0pky">77</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Assistant Engineer</td>
+    <td class="tg-0pky">29</td>
   </tr>
   <tr>
     <td class="tg-0pky">Grand Total</td>
@@ -157,9 +157,9 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• roughly a third of mentorship eligible employees have been in their current position for more than 30 years (from_date before 1991); a breakdown by title is below
+• roughly a third of mentorship eligible employees have been in their current position for more than 25 years (from_date<'1996-01-01'); a breakdown by title is below
 
-<p align="center">Mentorship Eligibility by Title (>30 years with current title)</p> 
+<p align="center">Mentorship Eligibility by Title (>25 years with current title)</p> 
 <table class="tg" align="center">
 <thead>
   <tr>
@@ -170,27 +170,31 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 <tbody>
   <tr>
     <td class="tg-0pky">Senior Staff</td>
-    <td class="tg-0pky">256</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Engineer</td>
-    <td class="tg-0pky">187</td>
+    <td class="tg-0pky">251</td>
   </tr>
   <tr>
     <td class="tg-0pky">Senior Engineer</td>
-    <td class="tg-0pky">61</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Assistant Engineer</td>
-    <td class="tg-0pky">25</td>
+    <td class="tg-0pky">240</td>
   </tr>
   <tr>
     <td class="tg-0pky">Technique Leader</td>
-    <td class="tg-0pky">24</td>
+    <td class="tg-0pky">55</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Engineer</td>
+    <td class="tg-0pky">42</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Staff</td>
+    <td class="tg-0pky">31</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Assistant Engineer</td>
+    <td class="tg-0pky">8</td>
   </tr>
   <tr>
     <td class="tg-0pky">Grand Total</td>
-    <td class="tg-0pky">553</td>
+    <td class="tg-0pky">627</td>
   </tr>
 </tbody>
 </table>
@@ -370,7 +374,7 @@ Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential
 </table>
 </td></tr> </table>
 
-And the ratio of Mentors to Retirees (aka Potential Mentors to Potential Roles to Fill)
+And the ratio of [Retirees to Mentors](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_per_mentor.sql) (aka Potential Roles to Fill per Potential Mentors)
 
 <table class="tg" align="center">
 <thead>
@@ -382,39 +386,39 @@ And the ratio of Mentors to Retirees (aka Potential Mentors to Potential Roles t
 <tbody>
   <tr>
     <td class="tg-0pky">Development</td>
-    <td class="tg-0pky">46</td>
+    <td class="tg-0pky">46.38</td>
   </tr>
   <tr>
     <td class="tg-0pky">Production</td>
-    <td class="tg-0pky">50</td>
+    <td class="tg-0pky">50.22</td>
   </tr>
   <tr>
     <td class="tg-0pky">Sales</td>
-    <td class="tg-0pky">46</td>
+    <td class="tg-0pky">46.46</td>
   </tr>
   <tr>
     <td class="tg-0pky">Customer Service</td>
-    <td class="tg-0pky">44</td>
+    <td class="tg-0pky">44.33</td>
   </tr>
   <tr>
     <td class="tg-0pky">Marketing</td>
-    <td class="tg-0pky">37</td>
+    <td class="tg-0pky">37.54</td>
   </tr>
   <tr>
     <td class="tg-0pky">Research</td>
-    <td class="tg-0pky">46</td>
+    <td class="tg-0pky">46.00</td>
   </tr>
   <tr>
     <td class="tg-0pky">Human Resources</td>
-    <td class="tg-0pky">40</td>
+    <td class="tg-0pky">40.46</td>
   </tr>
   <tr>
     <td class="tg-0pky">Quality Management</td>
-    <td class="tg-0pky">51</td>
+    <td class="tg-0pky">51.72</td>
   </tr>
   <tr>
     <td class="tg-0pky">Finance</td>
-    <td class="tg-0pky">58</td>
+    <td class="tg-0pky">58.73</td>
   </tr>
 </tbody>
 </table>
