@@ -71,7 +71,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 
 • the instructions for Deliverable 1 do not specify a filter on current employees (to_date="9999-01-01") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged)
 
-<p align="center">Retiring Titles (Current Employees)</p>
+<p align="center">[Retiring Titles](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_by_title.sql) (Current Employees)</p>
 <table class="tg" align="center">
 <thead>
   <tr>
