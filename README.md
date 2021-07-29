@@ -382,39 +382,39 @@ And the ratio of [Retirees to Mentors](https://github.com/jzebker/Pewlett_Hackar
 <tbody>
   <tr>
     <td class="tg-0pky">Development</td>
-    <td class="tg-0pky">46</td>
+    <td class="tg-0pky">46.38</td>
   </tr>
   <tr>
     <td class="tg-0pky">Production</td>
-    <td class="tg-0pky">50</td>
+    <td class="tg-0pky">50.22</td>
   </tr>
   <tr>
     <td class="tg-0pky">Sales</td>
-    <td class="tg-0pky">46</td>
+    <td class="tg-0pky">46.46</td>
   </tr>
   <tr>
     <td class="tg-0pky">Customer Service</td>
-    <td class="tg-0pky">44</td>
+    <td class="tg-0pky">44.33</td>
   </tr>
   <tr>
     <td class="tg-0pky">Marketing</td>
-    <td class="tg-0pky">37</td>
+    <td class="tg-0pky">37.54</td>
   </tr>
   <tr>
     <td class="tg-0pky">Research</td>
-    <td class="tg-0pky">46</td>
+    <td class="tg-0pky">46.00</td>
   </tr>
   <tr>
     <td class="tg-0pky">Human Resources</td>
-    <td class="tg-0pky">40</td>
+    <td class="tg-0pky">40.46</td>
   </tr>
   <tr>
     <td class="tg-0pky">Quality Management</td>
-    <td class="tg-0pky">51</td>
+    <td class="tg-0pky">51.72</td>
   </tr>
   <tr>
     <td class="tg-0pky">Finance</td>
-    <td class="tg-0pky">58</td>
+    <td class="tg-0pky">58.73</td>
   </tr>
 </tbody>
 </table>
