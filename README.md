@@ -69,7 +69,8 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• the instructions for Deliverable 1 do not specify a filter on current employees (to_date="9999-01-01") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged) [code](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_by_title.sql)
+• the instructions for Deliverable 1 do not specify a filter on current employees (to_date="9999-01-01") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged) 
+[code](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_by_title.sql)
 
 <p align="center">Retiring Titles (Current Employees)</p>
 <table class="tg" align="center">
@@ -115,7 +116,8 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• there is roughly **1** Engineer for every **3** Senior Engineers who are mentorship eligible and there is roughly **1** Staff for every **3.5** Senior Staff who are mentorship eligible [code](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/mentors_by_title.sql)
+• there is roughly **1** Engineer for every **3** Senior Engineers who are mentorship eligible and there is roughly **1** Staff for every **3.5** Senior Staff who are mentorship eligible 
+[code](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/mentors_by_title.sql)
 
 <p align="center">Mentorship Eligibility by Title</p>
 <table class="tg" align="center">
@@ -157,7 +159,8 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• roughly a third of mentorship eligible employees have been in their current position for more than 25 years (from_date<'1996-01-01'); a breakdown by title is below [code](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/mentors_25yrs.sql)
+• roughly a third of mentorship eligible employees have been in their current position for more than 25 years (from_date<'1996-01-01'); a breakdown by title is below 
+[code](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/mentors_25yrs.sql)
 
 <p align="center">Mentorship Eligibility by Title (>25 years with current title)</p> 
 <table class="tg" align="center">
