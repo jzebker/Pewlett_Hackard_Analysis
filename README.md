@@ -69,7 +69,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 </tbody>
 </table>
 
-• the instructions for Deliverable 1 do not specify a filter on current employees (to_date="9999-01-01") in the retiring_titles table; a chart accounting for this is displayed below (the results are more or less unchanged) 
+• the picture on Canvas for the retiring_titles table in Deliverable 1 includes all employees and not just current employees; a chart accounting for this is displayed below including only results for current employees (the results are more or less unchanged) 
 
 [code](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_by_title.sql)
 
