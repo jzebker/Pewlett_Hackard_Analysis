@@ -128,19 +128,19 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 <tbody>
   <tr>
     <td class="tg-0pky">Senior Staff</td>
-    <td class="tg-0pky">568</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Engineer</td>
-    <td class="tg-0pky">501</td>
+    <td class="tg-0pky">569</td>
   </tr>
   <tr>
     <td class="tg-0pky">Senior Engineer</td>
-    <td class="tg-0pky">169</td>
+    <td class="tg-0pky">529</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Engineer</td>
+    <td class="tg-0pky">190</td>
   </tr>
   <tr>
     <td class="tg-0pky">Staff</td>
-    <td class="tg-0pky">156</td>
+    <td class="tg-0pky">155</td>
   </tr>
   <tr>
     <td class="tg-0pky">Assistant Engineer</td>
@@ -148,7 +148,7 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
   </tr>
   <tr>
     <td class="tg-0pky">Technique Leader</td>
-    <td class="tg-0pky">77</td>
+    <td class="tg-0pky">29</td>
   </tr>
   <tr>
     <td class="tg-0pky">Grand Total</td>
