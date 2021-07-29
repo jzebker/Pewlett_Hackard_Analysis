@@ -370,7 +370,7 @@ Per the data, there are 1549 mentorship-eligibile employees and 72,458 potential
 </table>
 </td></tr> </table>
 
-And the ratio of [Retirees to Mentors](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_per_mentor.sql) (aka Potential Mentors to Potential Roles to Fill)
+And the ratio of [Retirees to Mentors](https://github.com/jzebker/Pewlett_Hackard_Analysis/blob/main/Queries/retirees_per_mentor.sql) (aka Potential Roles to Fill per Potential Mentors)
 
 <table class="tg" align="center">
 <thead>
