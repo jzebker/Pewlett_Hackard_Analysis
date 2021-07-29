@@ -170,23 +170,27 @@ Help Bobby out with his employee database assignments in SQL.  Determine (1) the
 <tbody>
   <tr>
     <td class="tg-0pky">Senior Staff</td>
-    <td class="tg-0pky">256</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Engineer</td>
-    <td class="tg-0pky">187</td>
+    <td class="tg-0pky">251</td>
   </tr>
   <tr>
     <td class="tg-0pky">Senior Engineer</td>
-    <td class="tg-0pky">61</td>
+    <td class="tg-0pky">240</td>
   </tr>
   <tr>
     <td class="tg-0pky">Technique Leader</td>
-    <td class="tg-0pky">25</td>
+    <td class="tg-0pky">55</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Engineer</td>
+    <td class="tg-0pky">42</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Staff</td>
+    <td class="tg-0pky">31</td>
   </tr>
   <tr>
     <td class="tg-0pky">Assistant Engineer</td>
-    <td class="tg-0pky">24</td>
+    <td class="tg-0pky">8</td>
   </tr>
   <tr>
     <td class="tg-0pky">Grand Total</td>
